@@ -1,0 +1,4 @@
+name: infusionsoft
+recipe: lamp
+config:
+  php: 8.1
